@@ -1,3 +1,5 @@
 * RepeaterConverter
-Converts ham radio repeater to CSV, CHIRP and OpenStreetMap
+Converts ham radio repeater to CSV, CHIRP and OpenStreetMap.
+
+
 See [[pa8q.nl/repeaters]] for more information
